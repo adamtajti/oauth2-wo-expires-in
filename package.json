@@ -1,0 +1,16 @@
+{
+  "name": "oauth2-wo-expires-in",
+  "version": "1.0.0",
+  "description": "A silly mock that authentications without setting expires_in, yet setting the refresh token 🫠",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
